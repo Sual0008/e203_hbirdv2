@@ -1,7 +1,5 @@
 //=====================================================================
 //
-// Designer   : Bob Hu
-//
 // Description:
 //  The ALU module to implement the compute function unit
 //    and the AGU (address generate unit) for LSU is also handled by ALU
